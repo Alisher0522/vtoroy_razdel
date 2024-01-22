@@ -12,7 +12,7 @@ case 10:
 case 50:
 	console.log("Meyordan kop!");
 	break;
-case 40:
+case meyor_ish_soat:
 	console.log("Meyorida!!!");
 	break;
 }
