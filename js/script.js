@@ -33,5 +33,3 @@ console.log(person, Object.keys(person), typeof(number));
 
 const answer = prompt('Yoshingiz nechida?', '');
 console.log(answer);
-
-
